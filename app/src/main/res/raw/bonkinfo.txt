@@ -1,0 +1,81 @@
+0:0:66:24:32:0:Bonk walking right 1
+1:32:66:24:32:0:Bonk walking right 2
+2:63:66:24:32:0:Bonk walking right 3
+3:93:66:24:32:0:Bonk walking right 4
+4:405:66:28:32:0:Bonk jumping right
+5:163:60:24:32:0:Bonk falling right
+6:0:66:24:32:1:Bonk walking left 1
+7:32:66:24:32:1:Bonk walking left 2
+8:63:66:24:32:1:Bonk walking left 3
+9:93:66:24:32:1:Bonk walking left 4
+10:405:66:28:32:1:Bonk jumping left
+11:163:60:24:32:1:Bonk falling left
+12:133:16:28:32:0:Bonk standing 1
+13:165:16:28:32:0:Bonk standing 2
+14:196:16:28:32:0:Bonk standing 3
+15:0:256:28:32:0:Bonk jumping/falling front
+16:80:265:32:30:0:Enemy up 1
+17:120:265:32:30:0:Enemy up 2
+18:162:265:32:30:0:Enemy down 1
+19:199:265:32:30:0:Enemy down 2
+20:237:265:32:30:0:Enemy front
+21:316:300:16:16:0:Cloud left
+22:332:300:16:16:0:Cloud right
+23:348:300:16:16:0:Empty sky
+24:364:300:16:16:0:Sky semi
+25:380:300:16:16:0:Sky dark
+26:396:300:16:16:0:Plant left
+27:412:300:16:16:0:Plant center
+28:428:300:16:16:0:Plant right
+29:302:318:12:12:0:Coin 1
+30:318:318:12:12:0:Coin 2
+31:334:318:12:12:0:Coin 3
+32:350:318:12:12:0:Coin 4
+33:366:318:12:12:0:Coin 5
+34:380:316:16:16:0:Plant single
+35:396:316:16:16:0:Platform left
+36:412:316:16:16:0:Platform center
+37:428:316:16:16:0:Platform right
+38:300:332:16:16:0:Box
+39:316:332:16:16:0:Plant A
+40:332:332:16:16:0:Column
+41:348:332:16:16:0:Plant B
+42:364:332:16:16:0:Ground single
+43:380:332:16:16:0:Plant C
+44:396:332:16:16:0:Ground left
+45:412:332:16:16:0:Ground center
+46:428:332:16:16:0:Ground right	
+47:0:212:32:32:0:Bonk dying 1
+48:37:212:28:32:0:Bonk dying 2
+49:71:212:28:32:0:Bonk dying 3
+50:107:212:28:32:0:Bonk dying 4
+51:140:212:28:32:0:Bonk dying 5
+52:316:332:16:16:0:Mushroom
+53:268:316:16:16:0:Goal sign 1
+54:284:316:16:16:0:Goal sign 2
+55:268:332:16:16:0:Goal sign 3
+56:284:332:16:16:0:Goal sign 4
+57:300:332:16:16:0:Brown block
+58:428:204:16:16:0:Booster 1
+59:428:220:16:16:0:Booster 2
+60:428:236:16:16:0:Booster 3
+61:428:252:16:16:0:Booster 4
+62:428:268:16:16:0:Booster 5
+63:428:284:16:16:0:Booster 6
+64:268:300:16:16:0:Speedboost sign 1
+65:284:300:16:16:0:Speedboost sign 2
+66:412:204:16:16:0:Warp Item
+67:412:172:16:16:0:Parte caverna 1
+68:428:172:16:16:0:Parte caverna 2
+69:412:188:16:16:0:Parte caverna 3
+70:428:188:16:16:0:Parte caverna 4
+71:364:156:16:16:0:Suelo caverna izquierda
+72:380:156:16:16:0:Suelo caverna recto
+73:396:156:16:16:0:Suelo caverna derecha
+74:364:172:16:16:0:Pared caverna izquierda
+75:380:172:16:16:0:Relleno caverna
+76:396:172:16:16:0:Pared caverna derecha
+77:364:188:16:16:0:Techo caverna izquierda
+78:380:188:16:16:0:Techo caverna recto
+79:396:188:16:16:0:Techo caverna derecha
+80:412:156:16:16:0:Vida

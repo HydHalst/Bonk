@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="actionBarTitleTextSize">18dp</dimen>
+
+    <dimen name="cardWidth">350dp</dimen>
+    <dimen name="cardMargins">16dp</dimen>
+    <dimen name="cardCornerRadius">4dp</dimen>
+    <dimen name="marginUserCardHorizontal">3dp</dimen>
+    <dimen name="marginUserCardTop">4dp</dimen>
+    <dimen name="elevationCardView">2dp</dimen>
+
+    <dimen name="topPaddingTextInputLayout">16dp</dimen>
+    <dimen name="imgSettingsWidth">150dp</dimen>
+    <dimen name="imgSettingsHeight">150dp</dimen>
+
+    <dimen name="elevationToolbar">4dp</dimen>
+
+    <dimen name="elevationFABtn">6dp</dimen>
+    <dimen name="marginFABtn">16dp</dimen>
+
+    <dimen name="btnHeight">60dp</dimen>
+</resources>

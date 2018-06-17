@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Projecte Ranking</string>
+
+    <string name="jugar">Jugar</string>
+    <string name="ranking">Ranking</string>
+    <string name="ajustaments">Ajustaments</string>
+    <string name="quanta">Quant a</string>
+
+    <string name="gameSearch">Game Search</string>
+    <string name="rankingGame">%s Ranking</string>
+
+    <string name="user">%s</string>
+
+    <string name="username">Username</string>
+    <string name="fullName">%s %s</string>
+    <string name="position">#%d - %d</string>
+
+    <string name="id">ID</string>
+    <string name="strId">%d</string>
+    <string name="tvDefault">Lorem Ipsum</string>
+
+    <string name="quantaText">Ens alegra que et preocupis per la nostra aplicacio, %s.
+        El pa amb tomàquet, pa amb oli, pa sucat amb tomata (Gironès) o pa amb tomata (Lleida) és una típica recepta de la cuina catalana i balear, similar a la bruschetta italiana.
+        Ha estat considerat el plat insígnia de la cuina catalana. Consisteix en una llesca de pa sucat amb mig tomàquet madur i amanit amb oli d'oliva i sal. </string>
+
+    <!--API-->
+    <string name="apiKey" translatable="false">48d256f9583d5e3a1932242f152fcbf6</string>
+    <string name="searchGameList" translatable="false">http://stucom.flx.cat/game/api/game</string>
+    <string name="searchRankingList" translatable="false">http://stucom.flx.cat/game/api/game/%d</string>
+    <string name="searchUser" translatable="false">http://stucom.flx.cat/game/api/user/%d</string>
+    <string name="searchGame" translatable="false">http://stucom.flx.cat/game/api/game/%s</string>
+</resources>
